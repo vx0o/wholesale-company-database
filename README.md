@@ -13,6 +13,6 @@ The design has been produced as part of an assesed databse development project.
 - SQL
 
 Project Status:
--Design completed
--SQL implementation will be added in the next stage
+- Design completed
+- SQL implementation will be added in the next stage
 
