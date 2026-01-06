@@ -9,7 +9,7 @@ The design has been produced as part of an assesed databse development project.
 ##CONTENT
 - ERD
 - Data Dictionary
-- Buisiness Rules
+- Business Rules
 - SQL
 
 Project Status:
